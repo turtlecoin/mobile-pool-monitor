@@ -16,7 +16,6 @@ Features:
 Currently the app supports 18 pools:
 
 * [Z-Pool.com](http://z-pool.com/)
-* [SlowandSteady.fun](http://slowandsteady.fun/)
 * [Eu.turtlepool.space](http://eu.turtlepool.space/)
 * [Hk.turtlepool.space](http://hk.turtlepool.space/)
 * [Us.turtlepool.space](http://us.turtlepool.space/)
