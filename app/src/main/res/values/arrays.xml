@@ -2,7 +2,6 @@
 <resources>
     <string-array name="categories">
             <item>Z-pool.com</item>
-            <item>Slowandsteady.fun</item>
             <item>Eu.turtlepool.space</item>
             <item>Hk.turtlepool.space</item>
             <item>Us.turtlepool.space</item>
@@ -26,7 +25,6 @@
 
     <string-array name="urls">
         <item>http://z-pool.com/api/</item>
-        <item>http://slowandsteady.fun:8119/</item>
         <item>http://eu.turtlepool.space/api/</item>
         <item>http://hk.turtlepool.space/api/</item>
         <item>http://us.turtlepool.space/api/</item>
