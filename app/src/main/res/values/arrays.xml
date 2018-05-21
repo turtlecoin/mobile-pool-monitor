@@ -21,6 +21,7 @@
             <item>Turtlecoinpool.ml</item>
             <item>Unipool.pro</item>
             <item>Tortugamor.cf</item>
+            <item>trtl.cryptonight.nl</item>
     </string-array>
 
     <string-array name="urls">
@@ -44,6 +45,7 @@
         <item>https://turtlecoinpool.ml:8443/</item>
         <item>https://unipool.pro:8779/</item>
         <item>http://tortugamor.cf:8117/</item>
+        <item>https://trtlpool.cryptonight.nl/</item>
     </string-array>
 
 
